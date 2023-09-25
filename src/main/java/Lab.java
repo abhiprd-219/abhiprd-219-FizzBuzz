@@ -1,7 +1,7 @@
 
 public class Lab {
     /**
-     * Return "Fizz" if a number n is divisible by 3, "Buzz" if divisible by 5, and "FizzBuzz" if divisible by both.
+     * Return  "Fizz" if a number n is divisible by 3, "Buzz" if divisible by 5, and "FizzBuzz" if divisible by both.
      *
      * This is coding problem that will make use of the modulus (%) operator, which can help us calculate if a number
      * is perfectly divisible by another number.
